@@ -20,7 +20,7 @@
   },
   "autoload": {
     "psr-4": {
-      "CodeNauhc\\TIM\\": "src"
+      "CodeNauhc\\TIM\\": "src/"
     }
   }
 }
