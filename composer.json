@@ -1,0 +1,26 @@
+{
+  "name": "codenauhc/yii2-tim-sdk",
+  "description": "腾讯TIM sdk,云通讯REST API",
+  "type": "library",
+  "keywords": [
+    "yii2",
+    "extension",
+    "TIM_SDK"
+  ],
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "CodeNauhc",
+      "email": "codenauhc@outlook.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.0.0",
+    "guzzlehttp/guzzle": "^6.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "CodeNauhc\\TIM\\": "src"
+    }
+  }
+}
